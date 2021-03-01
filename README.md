@@ -25,10 +25,10 @@ There 2 queries added to gather more weather data:
 Performed 2 queries showing the temperature for Jan and Nov. As these both months are crucial in W.Avy's business. 
 For November temperature: 
 Average is 73.25 and max is 83. Max is the same as December. Min is more than December which is good for W.Avy's business. 
-![surfs_up](https://github.com/Zainak94/surfs_up/blob/main/Nov_Temps.PNG)
+![surfs_up](https://github.com/Zainak94/surfs_up/blob/main/Nov_Query.PNG)
 
 For December Temperature: 
 Average is 68 and max is 81. After December we know that January will be better as the average temperature gets better.  
-![surfs_up](https://github.com/Zainak94/surfs_up/blob/main/Nov_Temps.PNG)
+![surfs_up](https://github.com/Zainak94/surfs_up/blob/main/Jan_Query.PNG)
 
 Just like this we can also calculate the average temperatures for all year around so that W.Avy will absolute surity for his business. 
