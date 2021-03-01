@@ -20,6 +20,15 @@ June and December temperatures are only few degrees apart. The main different is
 # Summary:
 
 Overall, W.Avy’s surf and icecream shop business will be just fine. He will just have to focus on making enough profits in the main season to compensate for few days when the business might not be populated enough. 
-There 2 queries added to gather more weather data for June and December: 
-**Image** 
-**Image** 
+
+There 2 queries added to gather more weather data: 
+Performed 2 queries showing the temperature for Jan and Nov. As these both months are crucial in W.Avy's business. 
+For November temperature: 
+Average is 73.25 and max is 83. Max is the same as December. Min is more than December which is good for W.Avy's business. 
+![surfs_up](https://github.com/Zainak94/surfs_up/blob/main/Nov_Temps.PNG)
+
+For December Temperature: 
+Average is 68 and max is 81. After December we know that January will be better as the average temperature gets better.  
+![surfs_up](https://github.com/Zainak94/surfs_up/blob/main/Nov_Temps.PNG)
+
+Just like this we can also calculate the average temperatures for all year around so that W.Avy will absolute surity for his business. 
